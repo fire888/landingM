@@ -1,4 +1,4 @@
-import birdSrc from '../assets/man.glb'
+import birdSrc from '../assets/Mts Animation Set V3.glb'
 import {GLTFLoader} from "three/examples/jsm/loaders/GLTFLoader";
 import * as THREE from "three";
 
