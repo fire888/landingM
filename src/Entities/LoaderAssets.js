@@ -1,7 +1,5 @@
-import birdSrc from '../assets/Mts Animation Set 09 06.glb'
-import {GLTFLoader} from "three/examples/jsm/loaders/GLTFLoader";
-import * as THREE from "three";
-
+import birdSrc from '../assets/Mts Animation Set 12 06.glb'
+import {GLTFLoader} from "three/examples/jsm/loaders/GLTFLoader"
 export const loaderAssets = () => {
     return {
         loadAssets: () => {
